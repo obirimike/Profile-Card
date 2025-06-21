@@ -1,0 +1,18 @@
+.profile-card {
+  max-width: 350px;
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  text-align: center;
+  margin: auto;
+}
+.profile-pic {
+  width: 100px;
+  border-radius: 50%;
+}
+.contact a {
+  margin: 0 10px;
+  color: #3366cc;
+  text-decoration: none;
+}
